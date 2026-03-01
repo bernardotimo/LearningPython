@@ -1,4 +1,4 @@
-#Slicing
+# Slicing
 text = "Python"
 print("First line:", text[0])
 print("Last line:", text[-1])

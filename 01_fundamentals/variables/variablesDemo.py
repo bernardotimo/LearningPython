@@ -1,19 +1,19 @@
-#Stores and reuse information
-#Python assigns data types automatically
+# Stores and reuse information
+# Python assigns data types automatically
 
-#Integer
+# Integer
 ingredient_quantity = 2
 print(ingredient_quantity)
 
-#Floats
+# Floats
 heigh = 1.78
 print(heigh)
 
-#Boolean
+# Boolean
 isLoggedIn = True
 print(isLoggedIn)
 
-#Type() - tell the data type
+# Type() - tell the data type
 print(type(ingredient_quantity))
 print(type(heigh))
 print(type(isLoggedIn))

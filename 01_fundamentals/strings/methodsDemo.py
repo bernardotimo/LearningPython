@@ -1,4 +1,4 @@
-#Methods
+# Methods
 sentence = "This is a sentence."
 print(sentence)
 print("Upper:", sentence.upper())
